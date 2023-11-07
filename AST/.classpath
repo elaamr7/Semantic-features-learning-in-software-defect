@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="var" path="Eclipse/plugins/org.eclipse.core.runtime_3.26.0.v20220813-0916.jar"/>
+	<classpathentry kind="var" path="Eclipse/plugins/org.eclipse.jdt.core_3.31.0.v20220831-1439.jar"/>
+	<classpathentry kind="var" path="Eclipse/plugins/org.eclipse.osgi_3.18.100.v20220817-1601.jar"/>
+	<classpathentry kind="var" path="Eclipse/plugins/org.eclipse.equinox.common_3.16.200.v20220817-1601.jar"/>
+	<classpathentry kind="var" path="Eclipse/plugins/org.eclipse.equinox.preferences_3.10.100.v20220710-1223.jar"/>
+	<classpathentry kind="var" path="Eclipse/plugins/org.eclipse.core.jobs_3.13.100.v20220817-1539.jar"/>
+	<classpathentry kind="var" path="Eclipse/plugins/org.eclipse.core.resources_3.18.0.v20220828-0546.jar"/>
+	<classpathentry kind="var" path="Eclipse/plugins/org.osgi.service.prefs_1.1.2.202109301733.jar"/>
+	<classpathentry kind="var" path="Eclipse/plugins/org.eclipse.core.contenttype_3.8.200.v20220817-1539.jar"/>
+	<classpathentry kind="var" path="Eclipse/plugins/org.eclipse.jface.text_3.21.0.v20220817-1340.jar"/>
+	<classpathentry kind="var" path="Eclipse/plugins/org.eclipse.core.commands_3.10.200.v20220512-0851.jar"/>
+	<classpathentry kind="var" path="Eclipse/plugins/org.eclipse.ui.workbench_3.126.0.v20220823-0718.jar"/>
+	<classpathentry kind="var" path="Eclipse/plugins/org.eclipse.jface_3.27.0.v20220817-1444.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ela/Downloads/asm-all-4.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
